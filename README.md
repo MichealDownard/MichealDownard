@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Juice2786?tab=repositories](https://github.com/NotJuice?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NotJuice?tab=repositories](https://github.com/NotJuice?tab=repositories)
 
 - 💬 Ask me about **HTML and CSS**
 
