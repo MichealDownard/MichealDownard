@@ -6,10 +6,6 @@
 - 💬 Ask me about **HTML, CSS, Python**
 
 - 📫 How to reach me **.swayz. on discord**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
