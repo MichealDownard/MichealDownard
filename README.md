@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
+<<<<<<< HEAD
 
 ###
 
@@ -70,3 +71,5 @@
 <img src="https://raw.githubusercontent.com/swayz8148/output/snake.svg" alt="Snake animation" />
 
 ###
+=======
+>>>>>>> 7f55ef6 (Removed Snake)
