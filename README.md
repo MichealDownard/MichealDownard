@@ -22,3 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=swayz8148&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://app.daily.dev/michealdownard"><img src="https://api.daily.dev/devcards/v2/oY4MABNR4pro9sUIOvRaM.png?type=default&r=cfd" width="356" alt="MIcheal Downard's Dev Card"/></a>
