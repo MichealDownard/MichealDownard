@@ -1,6 +1,8 @@
 name: Generate Snake Graph
 
 on:
+  schedule:
+    - cron: "0 12 * * *"
   push:
     branches:
       - main
@@ -15,3 +17,16 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-snake-dark.svg
           svg_palette: github-dark
+      - name: Update README
+        run: |
+          sed -i '/<picture>/,/<\/picture>/c\
+          <picture>\
+            <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />\
+            <img alt="github-snake" src="dist/github-snake-dark.svg" />\
+          </picture>' README.md
+      - name: Commit and push if it changed
+        run: |
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Snake graph updated" && git push origin || echo "No changes to commit"
