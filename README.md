@@ -87,8 +87,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=swayz8148&no-bg=false&no-frame=false&row=4&column=2" height="150" alt="trophy graph"  />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="github-snake" src="dist/github-snake-dark.svg" />
 </picture>
 
 ###
