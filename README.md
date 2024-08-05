@@ -84,7 +84,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayz8148&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=swayz8148&no-bg=false&no-frame=false&row=4&column=2" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=swayz8148&no-bg=false&no-frame=false&row=3&column=3" height="150" alt="trophy graph"  />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
