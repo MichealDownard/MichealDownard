@@ -5,10 +5,8 @@
 I'm a passionate developer with four years of experience in coding, currently pursuing a course in software/web development and cybersecurity.
 
 - 🌍 Based in England
-- 🖥️ Check out my portfolio at [michealdev.com](http://michealdev.com)
-- ✉️ Reach me at [contact@michealdev.com](mailto:contact@michealdev.com)
-- 🚀 Currently working on [Statlab.dev - Stat Tracking Site](https://statlab.dev)
-- 🧠 Learning Zig and React Native
+- 🖥️ Check out my portfolio at [Emberzo.com](https://emberzo.com/)
+- ✉️ Reach me at [contact@emberzo.com](mailto:contact@emberzo.com)
 - 🤝 Open to collaborating on website projects
 
 ---
